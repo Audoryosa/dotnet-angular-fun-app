@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Audrius\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Audrius\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_DatingApp.1155123890.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Audrius\RiderProjects\DatingApp" t="IncludeFlat">
+      <e p="client\node_modules\@angular\animations" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\cli" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\common" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\compiler" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\compiler-cli" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\core" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\forms" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\platform-browser" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\platform-browser-dynamic" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular\router" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular-devkit\architect" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular-devkit\build-angular" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular-devkit\build-optimizer" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular-devkit\build-webpack" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular-devkit\core" t="IncludeRecursive" />
+      <e p="client\node_modules\@angular-devkit\schematics" t="IncludeRecursive" />
+      <e p="client\node_modules\@babel\parser" t="IncludeRecursive" />
+      <e p="client\node_modules\@babel\types" t="IncludeRecursive" />
+      <e p="client\node_modules\@jsdevtools\coverage-istanbul-loader" t="IncludeRecursive" />
+      <e p="client\node_modules\@ngtools\webpack" t="IncludeRecursive" />
+      <e p="client\node_modules\@types" t="IncludeRecursive">
+        <e p="eslint" t="IncludeRecursive" />
+        <e p="estree" t="IncludeRecursive" />
+        <e p="jasmine" t="IncludeRecursive" />
+        <e p="json-schema" t="IncludeRecursive" />
+        <e p="minimatch" t="IncludeRecursive" />
+        <e p="node" t="IncludeRecursive" />
+        <e p="source-list-map" t="IncludeRecursive" />
+      </e>
+      <e p="client\node_modules\acorn" t="IncludeRecursive" />
+      <e p="client\node_modules\agent-base" t="IncludeRecursive" />
+      <e p="client\node_modules\ajv" t="IncludeRecursive" />
+      <e p="client\node_modules\ajv-formats" t="IncludeRecursive" />
+      <e p="client\node_modules\ajv-keywords" t="IncludeRecursive" />
+      <e p="client\node_modules\ansi-colors" t="IncludeRecursive" />
+      <e p="client\node_modules\browserslist" t="IncludeRecursive" />
+      <e p="client\node_modules\canonical-path" t="IncludeRecursive" />
+      <e p="client\node_modules\chalk" t="IncludeRecursive" />
+      <e p="client\node_modules\chokidar" t="IncludeRecursive" />
+      <e p="client\node_modules\chrome-trace-event" t="IncludeRecursive" />
+      <e p="client\node_modules\colorette" t="IncludeRecursive" />
+      <e p="client\node_modules\commander" t="IncludeRecursive" />
+      <e p="client\node_modules\critters" t="IncludeRecursive" />
+      <e p="client\node_modules\dependency-graph" t="IncludeRecursive" />
+      <e p="client\node_modules\enhanced-resolve" t="IncludeRecursive" />
+      <e p="client\node_modules\es-module-lexer" t="IncludeRecursive" />
+      <e p="client\node_modules\escalade" t="IncludeRecursive" />
+      <e p="client\node_modules\fast-deep-equal" t="IncludeRecursive" />
+      <e p="client\node_modules\fast-json-stable-stringify" t="IncludeRecursive" />
+      <e p="client\node_modules\https-proxy-agent" t="IncludeRecursive" />
+      <e p="client\node_modules\jasmine-core" t="IncludeRecursive" />
+      <e p="client\node_modules\jest-worker" t="IncludeRecursive" />
+      <e p="client\node_modules\json-schema-traverse" t="IncludeRecursive" />
+      <e p="client\node_modules\json5" t="IncludeRecursive" />
+      <e p="client\node_modules\karma" t="IncludeRecursive" />
+      <e p="client\node_modules\karma-chrome-launcher" t="IncludeRecursive" />
+      <e p="client\node_modules\karma-coverage" t="IncludeRecursive" />
+      <e p="client\node_modules\karma-jasmine" t="IncludeRecursive" />
+      <e p="client\node_modules\karma-jasmine-html-reporter" t="IncludeRecursive" />
+      <e p="client\node_modules\license-webpack-plugin" t="IncludeRecursive" />
+      <e p="client\node_modules\magic-string" t="IncludeRecursive" />
+      <e p="client\node_modules\memfs" t="IncludeRecursive" />
+      <e p="client\node_modules\nanoid" t="IncludeRecursive" />
+      <e p="client\node_modules\postcss" t="IncludeRecursive" />
+      <e p="client\node_modules\reflect-metadata" t="IncludeRecursive" />
+      <e p="client\node_modules\rxjs" t="IncludeRecursive" />
+      <e p="client\node_modules\schema-utils" t="IncludeRecursive" />
+      <e p="client\node_modules\source-map" t="IncludeRecursive" />
+      <e p="client\node_modules\source-map-js" t="IncludeRecursive" />
+      <e p="client\node_modules\sourcemap-codec" t="IncludeRecursive" />
+      <e p="client\node_modules\symbol-observable" t="IncludeRecursive" />
+      <e p="client\node_modules\tapable" t="IncludeRecursive" />
+      <e p="client\node_modules\terser" t="IncludeRecursive" />
+      <e p="client\node_modules\tree-kill" t="IncludeRecursive" />
+      <e p="client\node_modules\tslib" t="IncludeRecursive" />
+      <e p="client\node_modules\upath" t="IncludeRecursive" />
+      <e p="client\node_modules\uri-js" t="IncludeRecursive" />
+      <e p="client\node_modules\webpack" t="IncludeRecursive" />
+      <e p="client\node_modules\webpack-merge" t="IncludeRecursive" />
+      <e p="client\node_modules\zone.js" t="IncludeRecursive" />
+      <e p="DatingApp" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="UsersController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="DataContext.cs" t="Include" />
+          <e p="Migrations" t="Include">
+            <e p="20201126184806_InitialCreate.cs" t="Include" />
+            <e p="20201126184806_InitialCreate.Designer.cs" t="Include" />
+            <e p="DataContextModelSnapshot.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DatingApp.csproj" t="IncludeRecursive" />
+        <e p="datingapp.db" t="Include" />
+        <e p="Entities" t="Include">
+          <e p="AppUser.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DatingApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="DatingApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
