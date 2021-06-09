@@ -24,6 +24,7 @@
       <e p="client\node_modules\@babel\types" t="IncludeRecursive" />
       <e p="client\node_modules\@jsdevtools\coverage-istanbul-loader" t="IncludeRecursive" />
       <e p="client\node_modules\@ngtools\webpack" t="IncludeRecursive" />
+      <e p="client\node_modules\@schematics\angular" t="IncludeRecursive" />
       <e p="client\node_modules\@types" t="IncludeRecursive">
         <e p="eslint" t="IncludeRecursive" />
         <e p="estree" t="IncludeRecursive" />
@@ -39,6 +40,7 @@
       <e p="client\node_modules\ajv-formats" t="IncludeRecursive" />
       <e p="client\node_modules\ajv-keywords" t="IncludeRecursive" />
       <e p="client\node_modules\ansi-colors" t="IncludeRecursive" />
+      <e p="client\node_modules\bootstrap" t="IncludeRecursive" />
       <e p="client\node_modules\browserslist" t="IncludeRecursive" />
       <e p="client\node_modules\canonical-path" t="IncludeRecursive" />
       <e p="client\node_modules\chalk" t="IncludeRecursive" />
@@ -53,6 +55,7 @@
       <e p="client\node_modules\escalade" t="IncludeRecursive" />
       <e p="client\node_modules\fast-deep-equal" t="IncludeRecursive" />
       <e p="client\node_modules\fast-json-stable-stringify" t="IncludeRecursive" />
+      <e p="client\node_modules\font-awesome" t="IncludeRecursive" />
       <e p="client\node_modules\https-proxy-agent" t="IncludeRecursive" />
       <e p="client\node_modules\jasmine-core" t="IncludeRecursive" />
       <e p="client\node_modules\jest-worker" t="IncludeRecursive" />
@@ -67,6 +70,7 @@
       <e p="client\node_modules\magic-string" t="IncludeRecursive" />
       <e p="client\node_modules\memfs" t="IncludeRecursive" />
       <e p="client\node_modules\nanoid" t="IncludeRecursive" />
+      <e p="client\node_modules\ngx-bootstrap" t="IncludeRecursive" />
       <e p="client\node_modules\postcss" t="IncludeRecursive" />
       <e p="client\node_modules\reflect-metadata" t="IncludeRecursive" />
       <e p="client\node_modules\rxjs" t="IncludeRecursive" />
