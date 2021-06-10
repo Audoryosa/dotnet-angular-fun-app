@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f925b57d-6008-4ff0-abbf-049ede767183" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/DatingApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/DatingApp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/datingapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/datingapp.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/project.packagespec.json" afterDir="false" />
-    </list>
+    <list default="true" id="f925b57d-6008-4ff0-abbf-049ede767183" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +59,9 @@
         <option value="$PROJECT_DIR$/DatingApp/Controllers/AccountController.cs" />
         <option value="$PROJECT_DIR$/DatingApp/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" />
-        <option value="$PROJECT_DIR$/DatingApp/Startup.cs" />
-        <option value="$PROJECT_DIR$/DatingApp/Extensions/IdentityServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/DatingApp/Extensions/ApplicationServiceExtensions.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/Extensions/IdentityServiceExtensions.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/Startup.cs" />
       </list>
     </option>
   </component>
@@ -153,7 +130,7 @@
       <updated>1606409911496</updated>
       <workItem from="1606409914880" duration="187000" />
       <workItem from="1623252560614" duration="11291000" />
-      <workItem from="1623339438867" duration="6795000" />
+      <workItem from="1623339438867" duration="7071000" />
     </task>
     <task id="LOCAL-00001" summary="base upgrade">
       <created>1623261740059</created>
@@ -176,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623341048205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="authorization and logins">
+      <created>1623350446694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623350446694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +188,8 @@
     </ignored-roots>
     <MESSAGE value="base upgrade" />
     <MESSAGE value="hashing" />
-    <option name="LAST_COMMIT_MESSAGE" value="hashing" />
+    <MESSAGE value="authorization and logins" />
+    <option name="LAST_COMMIT_MESSAGE" value="authorization and logins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
