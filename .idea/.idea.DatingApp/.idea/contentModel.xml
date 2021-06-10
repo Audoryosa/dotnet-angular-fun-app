@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Audrius\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -93,6 +93,8 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="BaseApiController.cs" t="Include" />
           <e p="UsersController.cs" t="Include" />
         </e>
         <e p="Data" t="Include">
@@ -100,6 +102,8 @@
           <e p="Migrations" t="Include">
             <e p="20201126184806_InitialCreate.cs" t="Include" />
             <e p="20201126184806_InitialCreate.Designer.cs" t="Include" />
+            <e p="20210610155501_Init.cs" t="Include" />
+            <e p="20210610155501_Init.Designer.cs" t="Include" />
             <e p="DataContextModelSnapshot.cs" t="Include" />
           </e>
         </e>
