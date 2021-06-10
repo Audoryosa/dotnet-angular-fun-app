@@ -5,34 +5,25 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/Data/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/Data/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp/Entities/AppUser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/Entities/AppUser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/DatingApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/DatingApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/datingapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/datingapp.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/DatingApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/animations/animations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/animations/animations.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/animations/browser/browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/animations/browser/browser.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/animations/browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/animations/browser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/animations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/animations/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/common/common.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/common/common.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/common/http/http.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/common/http/http.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/common/http/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/common/http/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/common/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/common/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/core/core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/core/core.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser-dynamic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser-dynamic/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser-dynamic/platform-browser-dynamic.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser-dynamic/platform-browser-dynamic.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/animations/animations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/animations/animations.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/animations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/animations/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/platform-browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/platform-browser/platform-browser.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/router/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/router/router.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/router/router.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@schematics/angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@schematics/angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +52,18 @@
     <setting file="file://$PROJECT_DIR$/DatingApp/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DatingApp/Controllers/BaseApiController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DatingApp/Entities/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/Interfaces/ITokenService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/Services/TokenService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DatingApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84225FDE-4871-49A2-928E-132A7A84C8E0/1d/17501cda/HMACSHA512.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DatingApp/Data/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/Extensions/ApplicationServiceExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/DTOs/RegisterDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/Extensions/IdentityServiceExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/DTOs/LoginDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43C8BFA5-3E45-4417-A342-7907C9107853/e0/5214dba5/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/DTOs/UserDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84225FDE-4871-49A2-928E-132A7A84C8E0/1d/17501cda/HMACSHA512.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,12 +71,20 @@
         <option value="$PROJECT_DIR$/client/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/client/angular.json" />
-        <option value="$PROJECT_DIR$/DatingApp/Startup.cs" />
         <option value="$PROJECT_DIR$/client/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/DatingApp/Controllers/BaseApiController.cs" />
-        <option value="$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" />
         <option value="$PROJECT_DIR$/DatingApp/Entities/AppUser.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/DTOs/RegisterDto.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/DTOs/LoginDto.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/Interfaces/TokenService.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/Services/TokenService.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/DTOs/UserDto.cs" />
         <option value="$PROJECT_DIR$/DatingApp/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/Startup.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/Extensions/IdentityServiceExtensions.cs" />
+        <option value="$PROJECT_DIR$/DatingApp/Extensions/ApplicationServiceExtensions.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +95,7 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\JetBrains Rider 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Users\Audrius\RiderProjects\DatingApp\client\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,7 +153,7 @@
       <updated>1606409911496</updated>
       <workItem from="1606409914880" duration="187000" />
       <workItem from="1623252560614" duration="11291000" />
-      <workItem from="1623339438867" duration="1448000" />
+      <workItem from="1623339438867" duration="6795000" />
     </task>
     <task id="LOCAL-00001" summary="base upgrade">
       <created>1623261740059</created>
@@ -162,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623261938249</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hashing">
+      <created>1623341048205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623341048205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +203,8 @@
       <path value="$PROJECT_DIR$/client" />
     </ignored-roots>
     <MESSAGE value="base upgrade" />
-    <option name="LAST_COMMIT_MESSAGE" value="base upgrade" />
+    <MESSAGE value="hashing" />
+    <option name="LAST_COMMIT_MESSAGE" value="hashing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
