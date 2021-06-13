@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f925b57d-6008-4ff0-abbf-049ede767183" name="Default Changelist" comment="" />
+    <list default="true" id="f925b57d-6008-4ff0-abbf-049ede767183" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/app/_models/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/_services/account.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/nav/nav.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/nav/nav.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/nav/nav.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/register/register.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/register/register.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/bin/Debug/netcoreapp3.1/DatingApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/datingapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/datingapp.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp/obj/Debug/netcoreapp3.1/DatingApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/forms/forms.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/forms/forms.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/@angular/forms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@angular/forms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +64,15 @@
     <setting file="file://$PROJECT_DIR$/DatingApp/DTOs/LoginDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43C8BFA5-3E45-4417-A342-7907C9107853/e0/5214dba5/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DatingApp/DTOs/UserDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/Data/Migrations/20210610155501_Init.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DatingApp/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84225FDE-4871-49A2-928E-132A7A84C8E0/1d/17501cda/HMACSHA512.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DatingApp/Data/Migrations/20210610155501_Init.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/client/angular.json" />
-        <option value="$PROJECT_DIR$/client/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/DatingApp/Controllers/BaseApiController.cs" />
         <option value="$PROJECT_DIR$/DatingApp/Entities/AppUser.cs" />
         <option value="$PROJECT_DIR$/DatingApp/DTOs/RegisterDto.cs" />
@@ -62,16 +86,32 @@
         <option value="$PROJECT_DIR$/DatingApp/Extensions/ApplicationServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/DatingApp/Extensions/IdentityServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/DatingApp/Startup.cs" />
+        <option value="$PROJECT_DIR$/client/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/client/src/app/nav/nav.component.css" />
+        <option value="$PROJECT_DIR$/client/src/app/_models/user.ts" />
+        <option value="$PROJECT_DIR$/client/src/app/nav/nav.component.html" />
+        <option value="$PROJECT_DIR$/client/tsconfig.json" />
+        <option value="$PROJECT_DIR$/client/src/app/nav/nav.component.ts" />
+        <option value="$PROJECT_DIR$/client/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/client/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/client/src/app/register/register.component.html" />
+        <option value="$PROJECT_DIR$/client/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/client/src/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/client/src/app/register/register.component.ts" />
+        <option value="$PROJECT_DIR$/client/src/app/_services/account.service.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1kpuZb1w6YHRTGbGCVLqolxCEZk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="ts.external.directory.path" value="C:\Users\Audrius\RiderProjects\DatingApp\client\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
@@ -130,7 +170,9 @@
       <updated>1606409911496</updated>
       <workItem from="1606409914880" duration="187000" />
       <workItem from="1623252560614" duration="11291000" />
-      <workItem from="1623339438867" duration="7071000" />
+      <workItem from="1623339438867" duration="7417000" />
+      <workItem from="1623514078518" duration="6114000" />
+      <workItem from="1623591197121" duration="5364000" />
     </task>
     <task id="LOCAL-00001" summary="base upgrade">
       <created>1623261740059</created>
@@ -160,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623350446694</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="authorization and logins">
+      <created>1623350530824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623350530824</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +231,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/client" />
